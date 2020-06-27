@@ -1,1 +1,1 @@
-This repo contains DSM5012 Applied Time Series course second homework.
+This repo contains second homework of DSM5012 Applied Time Series course.
